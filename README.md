@@ -45,6 +45,6 @@ I'm a Mathematics student at Universidad Nacional de Colombia, passionate about 
 ### 📫 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jeiner-parody" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeiner parody" /></a>
+<a href="https://www.linkedin.com/in/jparody/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeiner parody" /></a>
 <a href="mailto:jparody8@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jparody8@gmail.com" /></a>
 </p>
