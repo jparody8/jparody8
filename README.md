@@ -37,6 +37,7 @@ I'm a Mathematics student at Universidad Nacional de Colombia, passionate about 
 
 ### 🚀 Featured Projects
 * **[Análisis de Productividad Agrícola](https://github.com/jparody8/Analisis-Productividad-Agricola-Colombia)**: Un estudio detallado sobre el agro colombiano usando Python y librerías de Data Science.
+*  **[Predicción y Clasificación de Accidentalidad en Bogotá](https://github.com/jparody8/Entre-Choques-y-Siniestros-BOG)**: Proyecto de Data Science que utiliza análisis exploratorio y modelos de Machine Learning para identificar patrones y factores de riesgo en la accidentalidad vial de Bogotá a partir de datos abiertos.
 
 ### 💼 Experience Highlights
 
