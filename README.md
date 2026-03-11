@@ -27,13 +27,16 @@ I'm a Mathematics student at Universidad Nacional de Colombia, passionate about 
 
 ---
 
-### 🚀 Current Focus
+### 🎓 Current Focus
 
 - 🎓 **Finishing:** Diploma in Machine Learning & Data Science (UNAL).
 - 🧠 **Learning:** AI & Advanced Analytics Bootcamp (CCB).
 - 📈 **Interest:** Actuarial Science, Financial Risk & Fraud Detection.
 
 ---
+
+### 🚀 Featured Projects
+* **[Análisis de Productividad Agrícola](https://github.com/jparody8/Analisis-Productividad-Agricola-Colombia)**: Un estudio detallado sobre el agro colombiano usando Python y librerías de Data Science.
 
 ### 💼 Experience Highlights
 
