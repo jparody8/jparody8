@@ -29,9 +29,9 @@ I'm a Mathematics student at Universidad Nacional de Colombia, passionate about 
 
 ### 🎓 Current Focus
 
-- 🎓 **Finishing:** Diploma in Machine Learning & Data Science (UNAL).
-- 🧠 **Learning:** AI & Advanced Analytics Bootcamp (CCB).
-- 📈 **Interest:** Actuarial Science, Financial Risk & Fraud Detection.
+- 🎓 **Diploma in Machine Learning & Data Science:** Completed a 192-hour intensive program at Universidad Nacional de Colombia, covering advanced statistical modeling and predictive analytics.
+- 🧠 **AI & Advanced Analytics:** Finished specialized Bootcamp training with the Bogotá Chamber of Commerce (CCB), applying AI solutions to business challenges.
+- 📈 **Credit Risk Modeling:** Currently specializing in Financial Risk & Credit Scoring using Python (Udemy), applying mathematical models to banking data.
 
 ---
 
