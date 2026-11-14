@@ -36,7 +36,7 @@ I'm a Mathematics student at Universidad Nacional de Colombia (expected graduati
 
 ### 🎓 Current Focus
 
-- 📈 **Credit Risk Modeling (in progress):** Taking the *Credit Risk Modeling in Python* course (Udemy), building Probability of Default (PD), LGD and EAD models to calculate expected loss, using Lending Club loan data. [Follow my progress here](https://github.com/jparody8/NOMBRE-DEL-REPO).
+- 📈 **Credit Risk Modeling (in progress):** Taking the *Credit Risk Modeling in Python* course (Udemy), building Probability of Default (PD), LGD and EAD models to calculate expected loss, using Lending Club loan data. [Follow my progress here](https://github.com/jparody8/Credit-Risk-Model)
 - 🎓 **Diploma in Machine Learning & Data Science:** Completed a 192-hour intensive program at Universidad Nacional de Colombia, covering advanced statistical modeling and predictive analytics.
 - 🧠 **AI & Advanced Analytics:** Completed a 100-hour Bootcamp with the Bogotá Chamber of Commerce (CCB), applying AI and Machine Learning solutions to business challenges.
 - 💵 **Fixed-Income Investment Principles:** Completed a 20-hour course at Universidad Nacional de Colombia (UACE).
@@ -44,7 +44,7 @@ I'm a Mathematics student at Universidad Nacional de Colombia (expected graduati
 ---
 
 ### 🚀 Featured Projects
-* **[Credit Risk Modeling in Python (2026 – In progress)](https://github.com/jparody8/NOMBRE-DEL-REPO)**: Notebooks following the full credit risk workflow: data preparation, PD model, LGD, EAD and expected loss, with Lending Club data.
+* **[Credit Risk Modeling in Python (2026 – In progress)](https://github.com/jparody8/Credit-Risk-Model)**: Notebooks following the full credit risk workflow: data preparation, PD model, LGD, EAD and expected loss, with Lending Club data.
 * **[Traffic Accident Prediction & Classification in Bogotá (Dec 2025)](https://github.com/jparody8/Entre-Choques-y-Siniestros-BOG)**: Data Science project using exploratory analysis and Machine Learning models to identify patterns and risk factors in road accidents from Bogotá's open data.
 * **[Agricultural Productivity Analysis (Sep 2025)](https://github.com/jparody8/Analisis-Productividad-Agricola-Colombia)**: Exploratory study of Colombian agricultural productivity using Python, Pandas and Matplotlib.
 
