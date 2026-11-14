@@ -45,8 +45,8 @@ I'm a Mathematics student at Universidad Nacional de Colombia (expected graduati
 
 ### 🚀 Featured Projects
 * **[Credit Risk Modeling in Python (2026 – In progress)](https://github.com/jparody8/Credit-Risk-Model)**: Notebooks following the full credit risk workflow: data preparation, PD model, LGD, EAD and expected loss, with Lending Club data.
-* **[Traffic Accident Prediction & Classification in Bogotá (Dec 2025)](https://github.com/jparody8/Entre-Choques-y-Siniestros-BOG)**: Data Science project using exploratory analysis and Machine Learning models to identify patterns and risk factors in road accidents from Bogotá's open data.
-* **[Agricultural Productivity Analysis (Sep 2025)](https://github.com/jparody8/Analisis-Productividad-Agricola-Colombia)**: Exploratory study of Colombian agricultural productivity using Python, Pandas and Matplotlib.
+* **[Traffic Accident Prediction & Classification in Bogotá](https://github.com/jparody8/Entre-Choques-y-Siniestros-BOG)**: Data Science project using exploratory analysis and Machine Learning models to identify patterns and risk factors in road accidents from Bogotá's open data.
+* **[Agricultural Productivity Analysis](https://github.com/jparody8/Analisis-Productividad-Agricola-Colombia)**: Exploratory study of Colombian agricultural productivity using Python, Pandas and Matplotlib.
 
 ### 💼 Experience Highlights
 
